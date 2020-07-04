@@ -1,22 +1,21 @@
 # Go Food App
-A mobile app which helps you find recommend restaurants near your place, built with React Native Expo
-
+Ứng dụng giúp tìm kiếm nhà hàng dựa trên vị trí của người dùng, được phát triển và xây dựng trên nền tảng React Native Expo.
 
    ![Logo](https://user-images.githubusercontent.com/35694395/85275989-5368b600-b4ab-11ea-8b97-828896d56b5c.png)
 
 
 
-# To test this app
+# Hướng dẫn chạy app
 
-### 1. Clone into your own machine 
+### 1. Clone project về máy
 
-### 2. Make sure npm (or yarn) and node have already been installed in your machine
- You can test by these command line : 
+### 2. Đảm bảo máy bạn đã cài môi trường node và gói thư viện npm (hoặc yarn)
+ Bạn có thể kiểm tra bằng cách gõ lệnh sau:
  
    npm -v  
    node -v
    
-### 3. Install all the needed node_modules package using:
+### 3. Cài đặt node_modules package sử dụng lệnh:
 
   npm install
   
@@ -24,21 +23,20 @@ A mobile app which helps you find recommend restaurants near your place, built w
   
   yarn install
   
-  in the project directory
 
-### 4. Run the app using:
+### 4. Chạy app gõ lệnh :
 
 npm start
 
 or yarn start
 
-### 5. Notes:
-After the app runs successfully, you can test either on the Stimulator or your own mobile by scanning the QR code
+### 5. Chú ý:
+Sau khi chạy lệnh npm start (hoặc yarn start) sẽ có tab mới trên của sổ trình duyệt được mở ra (ảnh minh họa ở dưới), người dùng có thể dùng máy thật quét QR CODE để có thể chạy app
+![qrcode](https://i.ibb.co/nfjDrG2/qr.png)
 
-Since this app requires you to log in, you can sign up by yourself or using our preset user
-
-username: test@gmail.com   or   test10@gmail.com
+Người dùng có thể dùng tài khoản có sẵn sau:
+username: test@gmail.com   hoặc   test10@gmail.com
 
 password: z1x2c3v4
 
-### Feel free to test and enjoy our app :))
+# Hướng dẫn chạy sử dụng ứng dụng Go Food
