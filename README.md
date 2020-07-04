@@ -67,6 +67,7 @@ List of restaurants by category.
 ### 3. Main function
  #### 3.1 Search restaurant
 Users can search for restaurants by entering keywords related to restaurant names, food name, category ... 
+
  <img src="https://i.ibb.co/DbVM8Ms/search.png" width="250">
  
  <img src="https://i.ibb.co/28qcwBY/result-search.png" width="250">
