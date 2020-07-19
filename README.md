@@ -42,7 +42,7 @@ After running npm start (or yarn start), a new tab of the browser window will op
 
 
 You can use the following existing accounts:
-username: test@gmail.com   hoặc   test10@gmail.com
+username: test@gmail.com   or   test10@gmail.com
 
 password: z1x2c3v4
 
