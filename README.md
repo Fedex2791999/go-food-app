@@ -1,6 +1,6 @@
 # Go Food App
 A mobile app which helps you find recommend restaurants near your place, built with React Native Expo
-日本語：お近くのおすすめレストランを検索するようにリアクトネイティブで開発されたモバイルアプリです。
+!日本語：お近くのおすすめレストランを検索するようにリアクトネイティブで開発されたモバイルアプリです。
    ![Logo](https://user-images.githubusercontent.com/35694395/85275989-5368b600-b4ab-11ea-8b97-828896d56b5c.png)
 
 
